@@ -1,1 +1,3 @@
-Python
+Breast Cancer classification
+Logistic Regression tutorial used: https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
