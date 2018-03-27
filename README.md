@@ -1,1 +1,1 @@
-Progress through Machine Learning with python
+Progress through Machine Learning
